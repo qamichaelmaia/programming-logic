@@ -1,3 +1,6 @@
+//Command terminal (node boolean)
+
+
 let x = new Boolean(false)
 let y = false
 

@@ -1,3 +1,6 @@
+//Command terminal (node variable)
+
+
 var nome = 'Roberto'
 console.log(nome)
 

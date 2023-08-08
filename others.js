@@ -1,3 +1,6 @@
+//Command terminal (node others)
+
+
 var nada //underfined "variável indefinida"
 
 if(nada === undefined){
