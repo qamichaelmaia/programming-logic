@@ -1,4 +1,4 @@
-##Programming Logic with Javascript 
+## Programming Logic with Javascript 
 
 * Variables and types
 * Objects and operators
